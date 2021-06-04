@@ -44,6 +44,9 @@ dependencies {
 
     testImplementation("io.micronaut:micronaut-http-client")
 
+    //H2 - Testes
+    testImplementation("com.h2database:h2")
+
 }
 
 
